@@ -11,7 +11,7 @@ import splitfolders
 import time
 import pathlib as path
 # 指定你的数据集所在的文件夹路径
-dataset_path = r'F:\dataSet\PE\QZYD\Raodu\dataSet_YOLO\image'
+dataset_path = r'F:\dataSet\PE\YBDC\刻蚀印\matting'
 dataset_path = path.Path(dataset_path)
 # 目标文件夹
 dest_path = 'output'
